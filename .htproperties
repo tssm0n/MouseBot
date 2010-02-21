@@ -1,0 +1,10 @@
+
+<properties>
+  <property name="com.htsoft.hitide.namespace" value="com.htsoft.picc"/>
+  <property name="com.htsoft.hitide.compNamespace" value="com.htsoft.pic.pro.v9_60PL5"/>
+  <property name="com.htsoft.hitide.chipName" value="16F690"/>
+  <property name="com.htsoft.hitide.package" value="20PDIP"/>
+  <property name="com.htsoft.codewizar.init.time" value="6"/>
+  <property name="com.htsoft.codewizar.header.time" value="6"/>
+  <property name="com.htsoft.codewizar.isr.time" value="5"/>
+</properties>
